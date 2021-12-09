@@ -25,7 +25,7 @@ Create .env.local file:
 
 copy and paste this to the file and replace "YOUR_API_KEY" with your unsplash api key
 
-<code>REACT_APP_CLIENT_ID = YOUR_API_KEY<code>
+<code>REACT_APP_CLIENT_ID = YOUR_API_KEY</code>
 
 To Start Server:
 
