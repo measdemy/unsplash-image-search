@@ -1,6 +1,6 @@
 # Unsplash Image Search
 
-An application used for search image on (unsplash.com) site
+An application used for search image on [unsplash.com](https://unsplash.com/) site
 
 # Screen Shots
 
