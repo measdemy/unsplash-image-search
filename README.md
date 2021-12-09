@@ -15,7 +15,7 @@ to be use in the next step below.
 
 # Installation
 
-Clone down this repository. You will need node and npm installed globally on your machine.
+Clone down this repository. You will need <code>node</code> and <code>npm</code> installed globally on your machine.
 
 Installation:
 
