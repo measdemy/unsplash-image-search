@@ -1,6 +1,6 @@
 # Unsplash Image Search
 
-An application used for search image on (unsplash.com) site
+An application used for search image on [unsplash.com](https://unsplash.com/) site
 
 # Screen Shots
 
@@ -15,7 +15,7 @@ to be use in the next step below.
 
 # Installation
 
-Clone down this repository. You will need node and npm installed globally on your machine.
+Clone down this repository. You will need <code>node</code> and <code>npm</code> installed globally on your machine.
 
 Installation:
 
@@ -25,7 +25,7 @@ Create .env.local file:
 
 copy and paste this to the file and replace "YOUR_API_KEY" with your unsplash api key
 
-<code>REACT_APP_CLIENT_ID = YOUR_API_KEY<code>
+<code>REACT_APP_CLIENT_ID = YOUR_API_KEY</code>
 
 To Start Server:
 
