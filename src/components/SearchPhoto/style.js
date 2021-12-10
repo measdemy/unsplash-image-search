@@ -20,7 +20,7 @@ export const Button = styled.button`
   padding: 5px 15px;
   border-radius: 5px;
   margin-left: 5px;
-  color: white;
+  color: #ffff;
   cursor: pointer;
   font-weight: bold;
 `;

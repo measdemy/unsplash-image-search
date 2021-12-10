@@ -33,11 +33,11 @@ export const Description = styled.p`
   width: 100%;
   position: absolute;
   bottom: 0;
-  color: white;
+  color: #ffff;
   padding: 15px 0;
   text-align: center;
   background: #6c6b69;
   a {
-    color: white;
+    color: #ffff;
   }
 `;
