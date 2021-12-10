@@ -8,4 +8,7 @@ export const Title = styled.h1`
     color: #7c7c7c;
     text-decoration: none;
   }
+  @media only screen and (max-width: 600px) {
+    font-size: 25px;
+  }
 `;
